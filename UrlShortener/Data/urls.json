@@ -1,0 +1,18 @@
+[
+  {
+    "Id": "5aa2d1a4-4f56-4675-b424-45e98924e9e5",
+    "OriginalUrl": "https://google.com",
+    "ShortCode": "google30",
+    "CreatedAt": "2026-10-09T10:47:00.6369821Z",
+    "ClickCount": 0,
+    "ExpiryDate": "2026-11-08T10:47:00.6329618Z"
+  },
+  {
+    "Id": "ed389e51-60c6-48aa-aa56-92534143a027",
+    "OriginalUrl": "https://google.com",
+    "ShortCode": "google",
+    "CreatedAt": "2026-10-09T11:11:19.233803Z",
+    "ClickCount": 1,
+    "ExpiryDate": null
+  }
+]
